@@ -6,3 +6,7 @@ Un amigo mio juega en un equipo de baloncesto, sin embargo, también es entrenad
 
 # Licencia
 Voy a utilizar la licencia "MIT License" ya que por lo que he investigado es la más cómoda y abierta, que es lo que nos hace falta durante las prácticas para poder trabajar mejor. Si fuera a lanzarse una aplicación en la nube en la que se requiriera más protección de los datos y del cóidgo utilizaría la "GPL"
+
+# Configuración de Git
+Git instalado correctamente
+Plugin de Git instalado correctamente
