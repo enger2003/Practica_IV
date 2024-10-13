@@ -12,3 +12,4 @@ Git instalado correctamente
 Plugin de Git instalado correctamente
 
 # Milestones
+He considerado dichos milestones ya que considero dos puntos fuertes del proyecto, uno el de una aplicación base que pueda servir para saber si se va bien encaminado al objetivo final, y otro el propio objetivo final
