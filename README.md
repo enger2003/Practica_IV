@@ -10,3 +10,5 @@ Voy a utilizar la licencia "MIT License" ya que por lo que he investigado es la 
 # Configuración de Git
 Git instalado correctamente
 Plugin de Git instalado correctamente
+
+# Milestones
