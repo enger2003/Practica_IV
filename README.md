@@ -10,3 +10,6 @@ Voy a utilizar la licencia "MIT License" ya que por lo que he investigado es la 
 # Configuración de Git
 Git instalado correctamente
 Plugin de Git instalado correctamente
+
+# Milestones
+He considerado dichos milestones ya que considero dos puntos fuertes del proyecto, uno el de una aplicación base que pueda servir para saber si se va bien encaminado al objetivo final, y otro el propio objetivo final
